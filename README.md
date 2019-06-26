@@ -1,0 +1,2 @@
+# Sniffer---Smart-Gas-Monitoring-system
+The scenario that the device apply during the leakage of the gas briefly is: when the gas detected cross the threshold adjusted by the developer it will inform the user that there is a gas leakage in the form of a SMS massage just to keep the user up with the situation. However, the device will immediately take the action of closing the main valve that supplies the space with gas. Then another massage would be sent to the user to inform him that the situation has been handled.
